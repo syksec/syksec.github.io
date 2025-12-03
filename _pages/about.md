@@ -21,6 +21,7 @@ Youkun Shi is a Postdoctoral Fellow in the Department of Computing at The Hong K
 Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, named Whitzard. The team has participated in numerous prestigious world-wide CTF competitions, achieving commendable rankings.
 
 # 🔥 News
+- [*2025.12*] &nbsp;🎉 One paper accepted by [**NDSS 2026**](https://www.ndss-symposium.org/ndss2026/)!
 - [*2025.10*] &nbsp;🎉 Our broken access control detection work on web apps received <span style="color:#B00C00">**Distinguished Paper Award**</span> at [**ACM CCS 2025**](https://www.sigsac.org/ccs/CCS2025/)!
 - [*2025.10*] &nbsp;🎉 One talk accepted by [**BlackHat EUROPE 2025**](https://www.blackhat.com/eu-25/)!
 - [*2025.09*] &nbsp;🎉 I have been awarded the <span style="color:#B00C00">**2025 ACM SIGWEB China Distinguished Doctoral Dissertation**</span>!
@@ -76,6 +77,11 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 
 ## 🤝 Co-Authored Publications
+
+1. `NDSS'26` **LinkGuard: A Lightweight State-Aware Runtime Guard Against Link Following Attacks in Windows File System** [<span class="pdf">PDF</span>]()  
+  Bocheng Xiang, Yuan Zhang, Hao Huang, Fengyu Liu, <span style="color:blue">Youkun Shi</span>.  
+  In *Proceedings of the Network and Distributed System Security (NDSS) Symposium 2026*, February 2026.   
+  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
 1. `CCS'25` **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications** [<span class="pdf">PDF</span>](/papers/bacscan-ccs25.pdf) <span class="award">Distinguished Paper Award</span>  
   Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, <span style="color:blue">Youkun Shi</span>, Qianheng Wang, Chenlin Wang, Zihan Lin, Min Yang.  
