@@ -78,7 +78,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 ## 🤝 Co-Authored Publications
 
-1. `NDSS'26` **LinkGuard: A Lightweight State-Aware Runtime Guard Against Link Following Attacks in Windows File System** [<span class="pdf">PDF</span>]()  
+8. `NDSS'26` **LinkGuard: A Lightweight State-Aware Runtime Guard Against Link Following Attacks in Windows File System** [<span class="pdf">PDF</span>]()  
   Bocheng Xiang, Yuan Zhang, Hao Huang, Fengyu Liu, <span style="color:blue">Youkun Shi</span>.  
   In *Proceedings of the Network and Distributed System Security (NDSS) Symposium 2026*, February 2026.   
   <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
