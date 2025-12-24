@@ -105,7 +105,6 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
   Journal of Chinese Computer Systems, 2025.    
   <span style="color:blue">*[CCF-B](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=101647), Chinese Journal*</span>
 
-
 # 🎖 Honors and Awards
 - *2025*, Distinguished Doctoral Dissertation, ACM SIGWEB China (2 recipients annually)
 - *2025*, Distinguished Paper Award, 32nd ACM Conference on Computer and Communications Security (<1% submission)
@@ -113,9 +112,12 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 - *2024*, [Huawei TopMinds Program Offer](https://career.huawei.com/reccampportal/portal5/topminds.html)
 - *2024*, Outstanding PhD Graduates, Shanghai (Top 5%)
 - *2024*, Academic Star, Fudan University (10 recipients annually)
-<!-- - *2022*, National Scholarship for Ph.D. Candidates (Top 0.2%) -->
-<!-- - *2018*, National Scholarship for B.S. Candidates (Top 0.2%) -->
-<!-- - *2017*, National Scholarship for B.S. Candidates (Top 0.2%) -->
+
+# 🌟 Fellowships and Grants Record 
+- *2025*, [RTH-ITF Research Talent](https://www.itf.gov.hk/en/funding-programmes/nurturing-talent/research-talent-hub/research-talent-hub-for-itf-projects-rth-itf-/index.html) Postdoctoral Fellow (HK 295,766.12)
+- *2022*, National Scholarship for Ph.D. Candidates (Top 0.2%, CNY 30,000)   
+- *2018*, National Scholarship for B.S. Candidates (Top 0.2%, CNY 8,000)   
+- *2017*, National Scholarship for B.S. Candidates (Top 0.2%, CNY 8,000)    
 
 # 🏆 Skill Competitions
 - *2021*, 🏆 Champion, 6th XCTF International League (Final Round)
