@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Youkun Shi is a Postdoctoral Fellow in the Department of Computing at The Hong Kong Polytechnic University, working under the supervision of *[**Prof. Daniel Xiapu Luo**](https://www4.comp.polyu.edu.hk/~csxluo/)*. He received the Ph.D. degree in June 2024 from Fudan University, advised by *[**Prof. Yuan Zhang**](https://yuanxzhang.github.io/)* and *[**Prof. Min Yang**](https://scholar.google.com/citations?user=UnKf9FIAAAAJ&hl=en)*. His research focuses on system security, especially **web security**. To date, he has published several papers in top-tier venues, including USENIX Security, IEEE S&P, ACM CCS, NDSS and TIFS. He received the IEEE S&P Distinguished Paper Award (2025), ACM CCS Distinguished Paper Award (2025) and the ACM SIGWEB China Distinguished Doctoral Dissertation Prize (2025). His research has been adopted by leading companies, including Alibaba and Huawei, and has been acknowledged in security advisories from major companies such as Google, Apache, and IBM.
+Youkun Shi is a Postdoctoral Fellow in the Department of Computing at The Hong Kong Polytechnic University, working under the supervision of *[**Prof. Daniel Xiapu Luo**](https://www4.comp.polyu.edu.hk/~csxluo/)*. He received the Ph.D. degree in June 2024 from Fudan University, advised by *[**Prof. Yuan Zhang**](https://yuanxzhang.github.io/)* and *[**Prof. Min Yang**](https://scholar.google.com/citations?user=UnKf9FIAAAAJ&hl=en)*. His research focuses on system security, especially **web security**. To date, he has published several papers in top-tier venues, including USENIX Security, IEEE S&P, ACM CCS, NDSS and TIFS. He received the IEEE S&P Distinguished Paper Award (2025), ACM CCS Distinguished Paper Award (2025) and the ACM SIGWEB China Distinguished Doctoral Dissertation Award (2025). His research has been adopted by leading companies, including Alibaba and Huawei, and has been acknowledged in security advisories from major companies such as Google, Apache, and IBM.
 
 Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, named Whitzard. The team has participated in numerous prestigious world-wide CTF competitions, achieving commendable rankings.
 
@@ -24,7 +24,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 - [*2025.12*] &nbsp;🎉 One paper accepted by [**NDSS 2026**](https://www.ndss-symposium.org/ndss2026/). Congrats Bocheng!
 - [*2025.10*] &nbsp;🎉 Our broken access control detection work on web apps received <span style="color:#B00C00">**Distinguished Paper Award**</span> at [**ACM CCS 2025**](https://www.sigsac.org/ccs/CCS2025/)!
 - [*2025.10*] &nbsp;🎉 One talk accepted by [**BlackHat EUROPE 2025**](https://www.blackhat.com/eu-25/)!
-- [*2025.09*] &nbsp;🎉 I have been awarded the <span style="color:#B00C00">**2025 ACM SIGWEB China Distinguished Doctoral Dissertation**</span>!
+- [*2025.09*] &nbsp;🎉 I have been awarded the <span style="color:#B00C00">**2025 ACM SIGWEB China Distinguished Doctoral Dissertation Award**</span>!
 - [*2025.09*] &nbsp;🎉 Two papers accepted by [**TIFS**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) and [**TSE**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)! 
 - [*2025.06*] &nbsp;🎉 Two papers accepted by [**USENIX Security 2025**](https://www.usenix.org/conference/usenixsecurity25)! 
 - [*2025.05*] &nbsp;🎉 One talk accepted by [**BlackHat USA 2025**](https://www.blackhat.com/us-25/)!
@@ -106,7 +106,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
   <span style="color:blue">*[CCF-B](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=101647), Chinese Journal*</span>
 
 # 🎖 Honors and Awards
-- *2025*, Distinguished Doctoral Dissertation, ACM SIGWEB China (2 recipients annually)
+- *2025*, Distinguished Doctoral Dissertation Award, ACM SIGWEB China (2 recipients annually)
 - *2025*, Distinguished Paper Award, 32nd ACM Conference on Computer and Communications Security (<1% submission)
 - *2025*, Distinguished Paper Award, 46th IEEE Symposium on Security and Privacy (<1% submission)
 - *2024*, [Huawei TopMinds Program Offer](https://career.huawei.com/reccampportal/portal5/topminds.html)
