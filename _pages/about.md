@@ -115,8 +115,8 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 - *2024*, Academic Star, Fudan University (10 recipients annually)
 
 # 🌟 Fellowships and Grants 
-- *2026.3 - 2028.2*, PolyU Distinguished Postdoctoral Fellowship Scheme (Funded by The Hong Kong Polytechnic University (PolyU), Hong Kong)
-- *2025.9 - 2026.2*, RTH-ITF Research Talent Postdoctoral Fellowship (Funded by Innovation and Technology Fund (ITF), Hong Kong)
+- *2026.3 - 2028.2*, PolyU Distinguished Postdoctoral Fellowship Scheme (Funded by The Hong Kong Polytechnic University (PolyU))
+- *2025.9 - 2026.2*, RTH-ITF Research Talent Postdoctoral Fellowship (Funded by Innovation and Technology Fund (ITF))
 - *2021 - 2022*, National Scholarship for Ph.D. Candidates (Top 0.2% nationwide)
 - *2017 - 2018*, National Scholarship for B.S. Candidates (Top 0.2% nationwide)
 - *2016 - 2017*, National Scholarship for B.S. Candidates (Top 0.2% nationwide)
