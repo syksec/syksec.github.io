@@ -21,6 +21,7 @@ Youkun Shi is a Postdoctoral Fellow in the Department of Computing at The Hong K
 Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, named Whitzard. The team has participated in numerous prestigious world-wide CTF competitions, achieving commendable rankings.
 
 # 🔥 News
+- [*2026.01*] &nbsp;🎉 One paper accepted by [**USENIX Security 2026**](https://www.usenix.org/conference/usenixsecurity26). Congrats Jiaqi!
 - [*2026.01*] &nbsp;🎉 I have been granted the <span style="color:#B00C00">**PolyU Distinguished Postdoctoral Fellowship Scheme**</span>!
 - [*2025.12*] &nbsp;🎉 One paper accepted by [**NDSS 2026**](https://www.ndss-symposium.org/ndss2026/). Congrats Bocheng!
 - [*2025.10*] &nbsp;🎉 Our broken access control detection work on web apps received <span style="color:#B00C00">**Distinguished Paper Award**</span> at [**ACM CCS 2025**](https://www.sigsac.org/ccs/CCS2025/)!
@@ -28,8 +29,8 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 - [*2025.09*] &nbsp;🎉 I have been awarded the <span style="color:#B00C00">**2025 ACM SIGWEB China Distinguished Doctoral Dissertation Award**</span>!
 - [*2025.09*] &nbsp;🎉 Two papers accepted by [**TIFS**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) and [**TSE**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)! 
 - [*2025.06*] &nbsp;🎉 Two papers accepted by [**USENIX Security 2025**](https://www.usenix.org/conference/usenixsecurity25)! 
-- [*2025.05*] &nbsp;🎉 One talk accepted by [**BlackHat USA 2025**](https://www.blackhat.com/us-25/)!
-- [*2025.05*] &nbsp;🎉 Our vulnerability detection work on microservice-structured web apps received <span style="color:#B00C00">**Distinguished Paper Award**</span> at [**IEEE S&P 2025**](https://sp2025.ieee-security.org/)!
+<!-- - [*2025.05*] &nbsp;🎉 One talk accepted by [**BlackHat USA 2025**](https://www.blackhat.com/us-25/)! -->
+<!-- - [*2025.05*] &nbsp;🎉 Our vulnerability detection work on microservice-structured web apps received <span style="color:#B00C00">**Distinguished Paper Award**</span> at [**IEEE S&P 2025**](https://sp2025.ieee-security.org/)! -->
 <!-- - [*2025.03*] &nbsp;🎉 One paper accepted by [**ACM CCS 2025**](https://www.sigsac.org/ccs/CCS2025/)! -->
 
 # 📖 Background
@@ -78,8 +79,12 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 
 ## 🤝 Co-Authored Publications
+1. `USENIX SEC'26` **Autonomy Comes with Costs: Detecting Denial-of-Service Vulnerabilities Caused by Resource Abusing in LLM-based Agents** [<span class="pdf">PDF</span>]()  
+  Jiaqi Luo, Jiarun Dai, Fengyu Liu, Songyang Peng, <span style="color:blue">Youkun Shi</span>, Tong Bu, Geng Hong, Xudong Pan, Yuan Zhang.   
+  In *Proceedings of the 35th USENIX Security Symposium (USENIX SEC)*, August, 2026.   
+  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
-8. `NDSS'26` **LinkGuard: A Lightweight State-Aware Runtime Guard Against Link Following Attacks in Windows File System** [<span class="pdf">PDF</span>]()  
+1. `NDSS'26` **LinkGuard: A Lightweight State-Aware Runtime Guard Against Link Following Attacks in Windows File System** [<span class="pdf">PDF</span>]()  
   Bocheng Xiang, Yuan Zhang, Hao Huang, Fengyu Liu, <span style="color:blue">Youkun Shi</span>.  
   In *Proceedings of the Network and Distributed System Security (NDSS) Symposium 2026*, February 2026.   
   <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
