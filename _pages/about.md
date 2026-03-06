@@ -21,6 +21,7 @@ Youkun Shi is a Postdoctoral Fellow in the Department of Computing at The Hong K
 Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, named Whitzard. The team has participated in numerous prestigious world-wide CTF competitions, achieving commendable rankings.
 
 # 🔥 News
+- [*2026.03*] &nbsp;🎉 I am honored to serve as a **Program Committee Member** for the Web and Network Security track at **AsiaCCS 2027**, which will be held July 12–16, 2027, in Macau, China.
 - [*2026.01*] &nbsp;🎉 One paper accepted by [**USENIX Security 2026**](https://www.usenix.org/conference/usenixsecurity26). Congrats Jiaqi!
 - [*2026.01*] &nbsp;🎉 I have been granted the <span style="color:#B00C00">**PolyU Distinguished Postdoctoral Fellowship Scheme**</span>!
 - [*2025.12*] &nbsp;🎉 One paper accepted by [**NDSS 2026**](https://www.ndss-symposium.org/ndss2026/). Congrats Bocheng!
@@ -28,7 +29,7 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 - [*2025.10*] &nbsp;🎉 One talk accepted by [**BlackHat EUROPE 2025**](https://www.blackhat.com/eu-25/)!
 - [*2025.09*] &nbsp;🎉 I have been awarded the <span style="color:#B00C00">**2025 ACM SIGWEB China Distinguished Doctoral Dissertation Award**</span>!
 - [*2025.09*] &nbsp;🎉 Two papers accepted by [**TIFS**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206) and [**TSE**](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)! 
-- [*2025.06*] &nbsp;🎉 Two papers accepted by [**USENIX Security 2025**](https://www.usenix.org/conference/usenixsecurity25)! 
+<!-- - [*2025.06*] &nbsp;🎉 Two papers accepted by [**USENIX Security 2025**](https://www.usenix.org/conference/usenixsecurity25)!  -->
 <!-- - [*2025.05*] &nbsp;🎉 One talk accepted by [**BlackHat USA 2025**](https://www.blackhat.com/us-25/)! -->
 <!-- - [*2025.05*] &nbsp;🎉 Our vulnerability detection work on microservice-structured web apps received <span style="color:#B00C00">**Distinguished Paper Award**</span> at [**IEEE S&P 2025**](https://sp2025.ieee-security.org/)! -->
 <!-- - [*2025.03*] &nbsp;🎉 One paper accepted by [**ACM CCS 2025**](https://www.sigsac.org/ccs/CCS2025/)! -->
@@ -149,7 +150,10 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 - ``TOPS`` [ACM Transactions on Privacy and Security](https://dl.acm.org/journal/tops)
 
-## Conference - Sub Reviewer
+## Conference Reviewing
+### Program Committee Member
+- 2027: AsiaCCS
+### Sub-Reviewer
 - 2026：WWW, DSN, ACISP, AsiaCCS
 - 2025：INFOCOM, IWQoS, ISSRE, ESORICS, ISSCC, AsiaCCS, ICICS
 - 2024：USENIX Security, NDSS, CCS
