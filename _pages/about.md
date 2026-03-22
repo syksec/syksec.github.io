@@ -21,7 +21,7 @@ Youkun Shi is a Postdoctoral Fellow in the Department of Computing at The Hong K
 Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, named Whitzard. The team has participated in numerous prestigious world-wide CTF competitions, achieving commendable rankings.
 
 # 🔥 News
-- [*2026.03*] &nbsp;🎉 I am honored to serve as a **Program Committee Member** for the Web and Network Security track at **AsiaCCS 2027**, which will be held July 12–16, 2027, in Macau, China.
+- [*2026.03*] &nbsp;🎉 I am honored to serve as a **Program Committee Member** for **AsiaCCS 2027**, which will be held July 12–16, 2027, in Macau, China.
 - [*2026.01*] &nbsp;🎉 One paper accepted by [**USENIX Security 2026**](https://www.usenix.org/conference/usenixsecurity26). Congrats Jiaqi!
 - [*2026.01*] &nbsp;🎉 I have been granted the <span style="color:#B00C00">**PolyU Distinguished Postdoctoral Fellowship Scheme**</span>!
 - [*2025.12*] &nbsp;🎉 One paper accepted by [**NDSS 2026**](https://www.ndss-symposium.org/ndss2026/). Congrats Bocheng!
@@ -106,11 +106,6 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
   In *Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P)*, May 2025.    
   Presented at **BlackHat USA 2025** [[Talk Abstract](https://www.blackhat.com/us-25/briefings/schedule/#detecting-taint-style-vulnerabilities-in-microservice-structured-web-applications-46427)]  
   <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
-
-1. `JCCS'25` **Automated Resolution Framework for Dependency Conflict of Java Third-party Libraries** [<span class="pdf">PDF</span>](/papers/dcsolver-jccs25.pdf)   
-  XiangYu Mao, <span style="color:blue">Youkun Shi</span>, Yuan Zhang.  
-  Journal of Chinese Computer Systems, 2025.    
-  <span style="color:blue">*[CCF-B](https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=101647), Chinese Journal*</span>
 
 # 🎖 Honors and Awards
 - *2025*, Distinguished Doctoral Dissertation Award, ACM SIGWEB China (2 recipients annually)
