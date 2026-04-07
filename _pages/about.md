@@ -141,7 +141,9 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 - ``TDSC`` [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
 
-- ``TNET`` [IEEE Transactions on Networking](https://www.comsoc.org/publications/journals/ieee-tnet)
+- ``TNET`` [IEEE Transactions on Networking](https://www.comsoc.org/publications/journals/ieee-tnet)   
+
+- ``TNSM`` [IEEE Transactions on Network and Service Management](https://www.comsoc.org/publications/journals/ieee-transactions-network-and-service-management)
 
 - ``TOPS`` [ACM Transactions on Privacy and Security](https://dl.acm.org/journal/tops)
 
