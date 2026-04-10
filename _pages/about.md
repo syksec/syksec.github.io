@@ -42,6 +42,15 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 # 📝 Publications 
 
 ## 👍🏻 Lead Publications
+1. `CCS'26` **PHPBench: Automated Generation of Verifiable and Hierarchical Benchmarks for PHP Web Fuzzing** [<span class="pdf">PDF</span>]()   
+  <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Lei Zhang, Jiarun Dai, Tianhao Bai, Fengyu Liu, Bocheng Xiang, Xiapu Luo, Min Yang.    
+  In *Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS)*, November 2026.   
+  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
+
+1. `CCS'26` **Reproducing Web Application Vulnerabilities with Patch-Guided Routing Inference and Sink Exploration** [<span class="pdf">PDF</span>]()    
+  <span style="color:blue">Youkun Shi</span>, Yuan Zhang, Feng Xue, Jiarun Dai, Lei Zhang, Fengyu Liu, Bocheng Xiang, Xiapu Luo.    
+  In *Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS)*, November 2026.   
+  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>
 
 1. `TIFS'25` **Facilitating Access Control Vulnerability Detection in Modern Java Web Applications with Accurate Permission Check Identification** [<span class="pdf">PDF</span>](https://ieeexplore.ieee.org/document/11180138/)     
   <span style="color:blue">Youkun Shi</span>, Fengyu Liu, Guangliang Yang, Yuan Zhang, Yinzhi Cao, Enhao Li, Xin Tan, Xiapu Luo, Min Yang, Siyi Chen.   
