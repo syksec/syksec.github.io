@@ -21,6 +21,7 @@ Youkun Shi is a Postdoctoral Fellow in the Department of Computing at The Hong K
 Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, named Whitzard. The team has participated in numerous prestigious world-wide CTF competitions, achieving commendable rankings.
 
 # 🔥 News
+- [*2026.04*] &nbsp;🎉 Three papers accepted by [**ACM CCS 2026**](https://www.sigsac.org/ccs/CCS2026/). Congrats Fengyu and myself!
 - [*2026.03*] &nbsp;🎉 I am honored to serve as a **Program Committee Member** for **AsiaCCS 2027**, which will be held July 12–16, 2027, in Macau, China.
 - [*2026.01*] &nbsp;🎉 One paper accepted by [**USENIX Security 2026**](https://www.usenix.org/conference/usenixsecurity26). Congrats Jiaqi!
 - [*2026.01*] &nbsp;🎉 I have been granted the <span style="color:#B00C00">**PolyU Distinguished Postdoctoral Fellowship Scheme**</span>!
@@ -89,6 +90,11 @@ Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, 
 
 
 ## 🤝 Co-Authored Publications
+1. `ACM CCS'26` **BACAgent: LLM-Powered Detection of Broken-Access-Control Vulnerabilities in Web Applications** [<span class="pdf">PDF</span>]()  
+  Fengyu Liu, Yuan Zhang, Zheng Lou, Tian Chen, <span style="color:blue">Youkun Shi</span>, Jiarun Dai, Enhao Li, Guangyu Zhou, Zhongfu Su, Zequn Fang.  
+  In *Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS)*, November 2026.     
+  <span style="color:#B00C00">*CCF-A, Security BIG4 Conference*</span>    
+
 1. `USENIX SEC'26` **Autonomy Comes with Costs: Detecting Denial-of-Service Vulnerabilities Caused by Resource Abusing in LLM-based Agents** [<span class="pdf">PDF</span>]()  
   Jiaqi Luo, Jiarun Dai, Fengyu Liu, Songyang Peng, <span style="color:blue">Youkun Shi</span>, Tong Bu, Geng Hong, Xudong Pan, Yuan Zhang.   
   In *Proceedings of the 35th USENIX Security Symposium (USENIX SEC)*, August, 2026.   
