@@ -21,7 +21,7 @@ Youkun Shi is a Postdoctoral Fellow in the Department of Computing at The Hong K
 Moreover, Youkun Shi is the co-founder of a great CTF Team at Fudan University, named Whitzard. The team has participated in numerous prestigious world-wide CTF competitions, achieving commendable rankings.
 
 # 🔥 News
-- [*2026.04*] &nbsp;🎉 Three papers accepted by [**ACM CCS 2026**](https://www.sigsac.org/ccs/CCS2026/). Congrats Fengyu and Me!
+- [*2026.04*] &nbsp;🎉 Three papers accepted by [**ACM CCS 2026**](https://www.sigsac.org/ccs/CCS2026/). Congrats Fengyu and me!
 - [*2026.03*] &nbsp;🎉 I am honored to serve as a **Program Committee Member** for **AsiaCCS 2027**, which will be held July 12–16, 2027, in Macau, China.
 - [*2026.01*] &nbsp;🎉 One paper accepted by [**USENIX Security 2026**](https://www.usenix.org/conference/usenixsecurity26). Congrats Jiaqi!
 - [*2026.01*] &nbsp;🎉 I have been granted the <span style="color:#B00C00">**PolyU Distinguished Postdoctoral Fellowship Scheme**</span>!
